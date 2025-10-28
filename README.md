@@ -1,6 +1,6 @@
 # Currency Rate Notifier 💱
 
-![Currency Exchange](https://raw.githubusercontent.com/kas021/currency-rate-notifier/main/currency-banner.png)
+![Currency Exchange](https://raw.githubusercontent.com/kas021/currency-rate-notifier/main/currency-banner.svg)
 
 A Python automation tool that fetches live currency exchange rates (GBP, USD, EUR) and delivers them straight to your inbox. Perfect for travelers, forex traders, or anyone keeping tabs on international currencies.
 
